@@ -2,7 +2,8 @@
 
 This simple project aims to compare the time complexity of different algorithms.\
 Programming language: C++\
-Project time：2020 Dec
+Project time：2020 Dec\
+Check 'AlgoTowers.cpp' and 'Report.pdf' files for details
 
 ### Problem Definition
 Consider a city in Florida named Gridville that has a grid layout of m × n cells. Associated
