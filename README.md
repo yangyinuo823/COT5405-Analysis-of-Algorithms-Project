@@ -13,7 +13,7 @@ area (shaped square or rectangle) of blocks within city limits that allows a bui
 at least h
 
 ### Algorithm Design Tasks
-* Alg1 * Design a Θ(mn) time Dynamic Programming algorithm for computing a largest area
+*Alg1* Design a Θ(mn) time Dynamic Programming algorithm for computing a largest area
 square block with all cells have the height permit value at least h.
 Alg2 Design a Θ(m3n
 3
